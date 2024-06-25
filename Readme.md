@@ -1,5 +1,5 @@
-# Changelog V1.1
-/ Server auf Neuen Namen Umgebaut
+# Changelog V1.2
+/ Test
 # Bedeutungen Symbole:
 `+ Neu`
 `- Entfernt`

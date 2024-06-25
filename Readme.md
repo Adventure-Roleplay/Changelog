@@ -1,4 +1,4 @@
-# Changelog V1.2
+# Changelog V1.3
 / Test
 # Bedeutungen Symbole:
 `+ Neu`
